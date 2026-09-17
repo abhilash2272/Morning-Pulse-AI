@@ -1,0 +1,72 @@
+[
+  {
+    "source_name": "MIT Technology Review",
+    "source_type": "research_industry",
+    "base_url": "https://www.technologyreview.com",
+    "feed_url": "https://www.technologyreview.com/feed/",
+    "api_url": null,
+    "category": "technology",
+    "reliability_level": "high",
+    "active": true
+  },
+  {
+    "source_name": "Wired",
+    "source_type": "research_industry",
+    "base_url": "https://www.wired.com",
+    "feed_url": "https://www.wired.com/feed/rss",
+    "api_url": null,
+    "category": "technology",
+    "reliability_level": "high",
+    "active": true
+  },
+  {
+    "source_name": "VentureBeat",
+    "source_type": "research_industry",
+    "base_url": "https://venturebeat.com",
+    "feed_url": "https://venturebeat.com/feed/",
+    "api_url": null,
+    "category": "ai_technology",
+    "reliability_level": "high",
+    "active": true
+  },
+  {
+    "source_name": "The Verge",
+    "source_type": "research_industry",
+    "base_url": "https://www.theverge.com",
+    "feed_url": "https://www.theverge.com/rss/index.xml",
+    "api_url": null,
+    "category": "technology",
+    "reliability_level": "high",
+    "active": true
+  },
+  {
+    "source_name": "TechCrunch",
+    "source_type": "research_industry",
+    "base_url": "https://techcrunch.com",
+    "feed_url": "https://techcrunch.com/feed/",
+    "api_url": null,
+    "category": "technology_business",
+    "reliability_level": "high",
+    "active": true
+  },
+  {
+    "source_name": "ArXiv CS.AI",
+    "source_type": "research_industry",
+    "base_url": "https://arxiv.org",
+    "feed_url": "https://rss.arxiv.org/rss/cs.AI",
+    "api_url": null,
+    "category": "academic_ai",
+    "reliability_level": "very_high",
+    "active": true
+  },
+  {
+    "source_name": "Semiconductor Engineering",
+    "source_type": "research_industry",
+    "base_url": "https://semiengineering.com",
+    "feed_url": "https://semiengineering.com/feed/",
+    "api_url": null,
+    "category": "semiconductor",
+    "reliability_level": "high",
+    "active": true
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "ticker": "NVDA",
+    "company_name": "NVIDIA Corporation",
+    "cik": "0001045810",
+    "website": "https://www.nvidia.com",
+    "investor_relations_url": "https://investor.nvidia.com",
+    "news_url": "https://nvidianews.nvidia.com/",
+    "rss_feed_url": "https://nvidianews.nvidia.com/releases.xml",
+    "active": true
+  },
+  {
+    "ticker": "MSFT",
+    "company_name": "Microsoft Corporation",
+    "cik": "0000789019",
+    "website": "https://www.microsoft.com",
+    "investor_relations_url": "https://www.microsoft.com/en-us/investor",
+    "news_url": "https://news.microsoft.com/",
+    "rss_feed_url": "https://news.microsoft.com/feed/",
+    "active": true
+  },
+  {
+    "ticker": "AAPL",
+    "company_name": "Apple Inc.",
+    "cik": "0000320193",
+    "website": "https://www.apple.com",
+    "investor_relations_url": "https://investor.apple.com",
+    "news_url": "https://www.apple.com/newsroom/",
+    "rss_feed_url": "https://www.apple.com/newsroom/rss-feed.rss",
+    "active": true
+  },
+  {
+    "ticker": "TSLA",
+    "company_name": "Tesla, Inc.",
+    "cik": "0001318605",
+    "website": "https://www.tesla.com",
+    "investor_relations_url": "https://ir.tesla.com",
+    "news_url": "https://www.tesla.com/blog",
+    "rss_feed_url": null,
+    "active": true
+  },
+  {
+    "ticker": "META",
+    "company_name": "Meta Platforms, Inc.",
+    "cik": "0001326801",
+    "website": "https://www.meta.com",
+    "investor_relations_url": "https://investor.fb.com",
+    "news_url": "https://about.fb.com/news/",
+    "rss_feed_url": null,
+    "active": true
+  }
+]
